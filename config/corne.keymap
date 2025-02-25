@@ -39,7 +39,7 @@
             bindings = <
                 &trans  &kp F1       &kp F2       &kp F3        &kp F4        &kp C_BRI_UP    &kp C_VOLUME_UP  &kp HOME    &kp PG_DN         &kp PG_UP   &kp END     &trans
                 &trans  &mt LGUI F5  &mt LALT F6  &mt LSHFT F7  &mt LCTRL F8  &kp CAPSLOCK    &kp K_MUTE       &kp LEFT    &kp DOWN          &kp UP      &kp RIGHT   &trans
-                &trans  &kp F9       &kp F10      &kp F11       &kp F12       &kp C_BRI_DN    &kp C_VOL_DN     &kp K_PREV  &kp K_PLAY_PAUSE  &kp K_NEXT  &kp K_MENU  &trans
+                &trans  &kp F9       &kp F10      &kp F11       &kp F12       &kp C_BRI_DN    &kp C_VOL_DN     &kp K_PREV  &kp K_PLAY_PAUSE  &kp K_NEXT  &kp K_CMENU  &trans
                                                   &trans        &trans        &trans          &trans           &trans      &trans
             >;
             display-name="NAV";
