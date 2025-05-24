@@ -19,7 +19,7 @@
             bindings = <
                 &kp ESC         &kp Q       &kp W       &kp E        &kp R        &kp T        &kp Y     &kp U        &kp I        &kp O       &kp P               &kp DEL
                 &kp PRINTSCREEN &mt LGUI A  &mt LALT S  &mt LSHFT D  &mt LCTRL F  &kp G        &kp H     &mt LCTRL J  &mt LSHFT K  &mt LALT L  &mt LGUI SEMICOLON  &kp SQT
-                &rgb_ug RGB_TOG &kp Z       &kp X       &kp C        &kp V        &kp B        &kp N     &kp M        &kp COMMA    &kp DOT     &kp FSLH            &trans
+                &kp MINUS       &kp Z       &kp X       &kp C        &kp V        &kp B        &kp N     &kp M        &kp COMMA    &kp DOT     &kp FSLH            &kp PLUS
                                                         &kp LSHFT    &lt 1 TAB    &kp BSPC     &kp SPACE &lt 2 ENTER  &trans
             >;
             display-name = "HOME";
