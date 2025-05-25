@@ -28,7 +28,7 @@
 		layer_1 {
 			bindings = <
 				&kp ESC     		&kp N1          &kp N2          &kp N3          &kp N4      &kp N5      &kp N6      &kp N7          &kp N8          &kp N9          &kp N0          &kp DEL
-				&kp PSCRN   		&mt LGUI GRAVE  &mt LALT MINUS  &mt LSHFT PLUS  &kp LCTRL   &none       &none       &mt LCTRL LBKT  &mt LSHFT RBKT  &mt LALT BSLH   &mt LGUI SEMI   &kp SQT
+				&kp PSCRN   		&mt LGUI GRAVE  &mt LALT MINUS  &mt LSHFT PLUS  &kp LCTRL   &none       &kp DOLLAR  &mt LCTRL LBKT  &mt LSHFT RBKT  &mt LALT BSLH   &mt LGUI SEMI   &kp SQT
 				&ext_power EP_TOG   &kp TILDE       &kp UNDER       &kp EQUAL       &kp DEL     &kp BSPC    &kp LBRC    &kp RBRC        &kp COMMA       &kp DOT         &kp SLASH       &none
 															&trans          &trans      &trans      &trans      &trans          &trans
 			>;
