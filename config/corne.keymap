@@ -38,7 +38,7 @@
 		layer_2 {
 			bindings = <
 				&kp ESC			&kp F1		&kp F2		&kp F3			&kp F4			&kp C_BRI_UP	&kp C_VOL_UP	&kp HOME	&kp PG_DN	&kp PG_UP	&kp END		&rgb_ug RGB_BRI
-				&to 3			&mt LGUI F5 &mt LALT F6	&mt LSHFT F7	&mt LCTRL F8	&kp CAPS		&kp K_MUTE		&kp LEFT	&kp DOWN	&kp UP		&kp RIGHT	&rgb_ug RGB_TOG
+				&to 3			&mt LGUI F5	&mt LALT F6	&mt LSHFT F7	&mt LCTRL F8	&kp CAPS		&kp K_MUTE		&kp LEFT	&kp DOWN	&kp UP		&kp RIGHT	&rgb_ug RGB_TOG
 				&rgb_ug RGB_EFF	&kp F9		&kp F10		&kp F11			&kp F12			&kp C_BRI_DN	&kp C_VOL_DN	&kp K_PREV	&kp K_PP	&kp K_NEXT	&kp K_CMENU	&rgb_ug RGB_BRD
 														&trans			&trans			&trans			&trans			&trans		&trans
 			>;
