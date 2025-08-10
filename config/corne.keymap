@@ -18,7 +18,7 @@
 		layer_0 {
 			bindings = <
 				&kp ESC				&kp Q			&kp W				&kp E			&kp R			&kp T						&kp Y			&kp U				&kp I				&kp O			&kp P				&kp DEL
-				&kp PSCRN			&kp A			&mt LGUI S			&mt LALT D		&mt LCTRL F		&kp G						&kp H			&mt LCTRL J			&mt LALT K			&mt LGUI L		&kp SEMI			&kp SQT
+				&kp PSCRN			&mt LGUI A		&mt LALT S			&mt LSHFT D		&mt LCTRL F		&kp G						&kp H			&mt LCTRL J			&mt LSHFT K			&mt LALT L		&mt LGUI SEMI		&kp SQT
 				&kp MINUS			&kp Z			&kp X				&kp C			&kp V			&kp B						&kp N			&kp M				&kp COMMA			&kp DOT			&kp FSLH			&kp EQUAL
 																		&kp LSHFT		&kp BSPC		&lt 1 TAB					&lt 2 ENTER		&kp SPACE			&kp LSHFT
 			>;
@@ -28,7 +28,7 @@
 		layer_1 {
 			bindings = <
 				&kp ESC				&kp N1			&kp N2				&kp N3			&kp N4			&kp N5						&kp TAB			&kp LBKT 			&kp RBKT			&kp BSLH		&kp GRAVE			&kp DEL
-				&kp PSCRN			&none			&kp LGUI 			&kp LALT 		&kp LCTRL 		&none						&kp BSPC		&kp LCTRL 			&kp LALT 			&kp LGUI		&kp SEMI			&kp SQT
+				&kp PSCRN			&kp	LGUI		&kp LALT 			&kp LSHFT 		&kp LCTRL 		&none						&kp BSPC		&kp LCTRL 			&kp LSHFT			&kp LALT		&mt LGUI SEMI		&kp SQT
 				&kp MINUS			&kp N6			&kp N7				&kp N8			&kp N9			&kp N0						&none 			&none				&kp COMMA			&kp DOT			&kp FSLH			&kp EQUAL
 																		&kp LSHFT		&none			&none						&lt 2 ENTER		&kp SPACE			&kp LSHFT
 			>;
@@ -38,7 +38,7 @@
 		layer_2 {
 			bindings = <
 				&kp F11				&kp F1 			&kp F2				&kp F3			&kp F4			&kp F5						&kp C_VOL_UP	&kp HOME			&kp PG_DN			&kp PG_UP		&kp END				&none
-				&ext_power EP_TOG	&none			&kp LGUI			&kp LALT		&kp LCTRL		&none						&kp K_MUTE		&kp LEFT			&kp DOWN			&kp UP			&kp RIGHT			&none
+				&ext_power EP_TOG	&kp LGUI		&kp LALT			&kp LSHFT		&kp LCTRL		&none						&kp K_MUTE		&kp LEFT			&kp DOWN			&kp UP			&kp RIGHT			&none
 				&kp F12				&kp F6			&kp F7				&kp F8			&kp F9			&kp F10						&kp C_VOL_DN	&kp K_PREV			&kp K_PP			&kp K_NEXT		&kp CAPS			&none
 																		&kp LSHFT		&none			&none						&none			&none				&kp LSHFT
 			>;
